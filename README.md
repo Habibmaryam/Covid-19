@@ -1,4 +1,4 @@
-# Project Name:My first Data analysis repo
+# Project Name: Confirmed cases of Covid-19 from year 2020 till 2023
 
 
 ---
